@@ -1,0 +1,467 @@
+﻿GoCN每日新闻(2018-01-07)
+
+1. NTP客户端实现 https://medium.com/learning-the-go-programming-language/lets-make-an-ntp-client-in-go-287c4b9a969f
+2. 从内存对齐谈同步控制 https://dave.cheney.net/2018/01/06/if-aligned-memory-writes-are-atomic-why-do-we-need-the-sync-atomic-package
+3. io.Reader与io.Writer时间估测 https://blog.machinebox.io/measuring-the-progress-of-long-running-io-reader-and-io-writer-operations-in-go-ba26b204a507
+4. 以太坊golang实现 https://github.com/ethereumproject/go-ethereum
+5. 深度学习已死，可微分编程万岁 https://mp.weixin.qq.com/s/xyjrr5uWGP-oYsRWCqqTDg
+
+GoCN每日新闻(2018-01-08)
+
+1. httplive: Go语言实现的Postman开源替代 https://github.com/gencebay/httplive
+2. libmqtt: Go实现的高性能MQTT客户端 https://github.com/goiiot/libmqtt
+3. Gobgp: Go实现的BGP工具 https://github.com/osrg/gobgp
+4. Golang sucks: Go中让人困惑的设计 https://speakerdeck.com/majek04/golang-sucks
+5. go-health: 方便的在服务中实现异步状态监控 https://github.com/InVisionApp/go-health
+
+GOCN每日新闻(2018-01-09)
+
+1. Go’s hidden #pragmas https://dave.cheney.net/2018/01/08/gos-hidden-pragmas
+2. Go 语言高级编程 https://github.com/chai2010/advanced-go-programming-book
+3. 依赖注入不是Java的专利，Golang也有 https://zhuanlan.zhihu.com/p/32689810
+4. B站日志系统的前世今生 https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg
+5. Go 的 Git 实现 https://github.com/src-d/go-git
+
+GOCN每日新闻(2018-01-10)
+
+1. 三种常见的API设计错误以及如何避免他们 https://blogs.mulesoft.com/dev/api-dev/overcome-three-common-api-mistakes/
+2. k8s实践笔记 https://jimmysong.io/
+3. 高效定时器的实现 https://jiachuhuang.github.io/2017/12/25/%E9%AB%98%E6%95%88%E5%AE%9A%E6%97%B6%E5%99%A8%E7%9A%84%E5%AE%9E%E7%8E%B0/
+4. 使用html5,Go和Facebox 在网站上实现面部识别 https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8
+5. 以交易系统为例，看分布式事务架构的五大演进 http://dbaplus.cn/news-141-1175-1.html
+
+GoCN每日新闻(2018-01-11)
+
+1.AWS开发工具包发布适用Go 2.0的开发者预览版 https://aws.amazon.com/cn/blogs/developer/aws-sdk-for-go-2-0-developer-preview/
+2.TensorFlow用Go实现的图像识别 https://dev.to/plutov/image-recognition-in-go-using-tensorflow-2hga
+3.Go的IO流 https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185
+4.Go实现的推送服务 https://dev.to/douglasmakey/firebase-cloud-messaging-with-golang-4he4
+5.你能用Docker的cli做什么 https://dev.to/twaintaylor/docker-cli-commands-and-what-you-can-do-with-them-5dg3
+
+GoCN每日新闻(2017-01-13)
+
+1. Go语言解析网页利器goquery简单使用 https://tomoya92.github.io/2017/06/21/golang-goquery/
+2. Etcd v3 服务注册与发现 Go代码 https://studygolang.com/articles/12165
+3. Go语言同步和异步执行多个任务封装 http://www.cnblogs.com/chenqionghe/p/8269556.html
+4. 功能即服务—OpenFaaS介绍 https://www.hashicorp.com/blog/functions-as-a-service-with-nomad
+5. Zero——Go实现轻量级的Tcp服务器 https://www.jianshu.com/p/f20cd2304aea
+
+GoCN每日新闻(2018-01-14)
+
+1. 使用istio治理微服务入门 http://tonybai.com/2018/01/03/an-intro-of-microservices-governance-by-istio/
+2. 是时候使用Kubernetes包管理工具Helm了https://www.kubernetes.org.cn/3435.html
+3. 写Go代码时遇到的那些问题[第1期] http://tonybai.com/2018/01/13/the-problems-i-encountered-when-writing-go-code-issue-1st/
+4. go实现的高速highwayhash算法 https://github.com/minio/highwayhash
+5. 负载均衡那点事 https://zhuanlan.zhihu.com/p/32854860
+
+GoCN每日新闻(2018-01-15)
+
+1. 2017 最火的 5 个 justforfunc 教学视频 https://medium.com/@francesc/justforfunc-a-year-in-review-af4003d56179
+2. int64 绝对值获取方法优化 http://cavaliercoder.com/blog/optimized-abs-for-int64-in-go.html
+3. 为 Go 添加关键字简介 https://phfilip.com/a-short-guide-to-adding-a-keyword-to-go.html
+4. 为什么 Go 还没实现分代和紧凑 GC https://lingchao.xin/post/why-golang-garbage-collector-not-implement-generational-and-compact-gc.html
+5. go-debug 工具分享 https://github.com/visionmedia/go-debug
+
+1. Aws lambda 服务支持Go语言了 : https://github.com/aws/aws-lambda-go
+2. Json 转为 Go 结构体的小工具： https://transform.now.sh/json-to-go/
+3. 为什么 channel 的默认值为 nil？：https://medium.com/justforfunc/why-are-there-nil-channels-in-go-9877cc0b2308
+4. 基于k8s 构建现代大数据管道： http://www.infoq.com/cn/news/2018/01/big-data-pipelines-kubernetes
+5. 基于 Go 机器学习的网页语义分析：http://www.jamesbowman.me/post/semantic-analysis-of-webpages-with-machine-learning-in-go
+
+GoCN每日新闻(2018-01-16)
+
+1. Aws lambda 服务支持Go语言了 : https://github.com/aws/aws-lambda-go
+2. Json 转为 Go 结构体的小工具： https://transform.now.sh/json-to-go/
+3. 为什么 channel 的默认值为 nil？：https://medium.com/justforfunc/why-are-there-nil-channels-in-go-9877cc0b2308
+4. 基于k8s 构建现代大数据管道： http://www.infoq.com/cn/news/2018/01/big-data-pipelines-kubernetes
+5. 基于 Go 机器学习的网页语义分析：http://www.jamesbowman.me/post/semantic-analysis-of-webpages-with-machine-learning-in-go
+
+GoCN每日新闻(2018-01-18)
+
+1. 引入Serverless/FaaS时机到了？国外Hootsuite的Serverless架构实践 https://mp.weixin.qq.com/s/bdbWQ5YsgrNArpI6Wp81pA
+2. Hadoop跑满状态下的Yarn资源管理谈 https://mp.weixin.qq.com/s/w0ITd9JN0-nomFQZKlzjcA
+3. 从美图容器优化实践谈Kubernetes网络方案设计https://mp.weixin.qq.com/s/Bwxf575fDHyNtUr6fxOQdQ
+4. Go的web工作原理 https://juejin.im/post/5a5d5f42518825732e2f4cc1
+5. go实现西瓜视频花椒直播等平台智能答题 http://www.chairis.cn/blog/article/71
+
+GoCN每日新闻(2018-01-19)
+
+1. Google新开源的分布式追踪系统 http://opencensus.io/
+2. 网络启动工具包netboot https://github.com/google/netboot
+3. DevOps利器-Hygieia平台开发部署 https://www.toutiao.com/i6509021208409801219/
+4. Go高性能编程实战 https://www.infoq.com/presentations/go-programming-language
+5. Go web应用移植到AWS Lambda http://artem.krylysov.com/blog/2018/01/18/porting-go-web-applications-to-aws-lambda/
+
+GoCN每日新闻(2018-01-20)
+
+1. 微信亿级用户异常检测框架的设计与实践 https://mp.weixin.qq.com/s/M9DWyGQ_VeV15OnUF8W2ZA
+2. 如何使用Pact和Docker保障微服务在生产环境中的通信 http://www.infoq.com/cn/articles/microservices-consumer-driven-contracts-pact-docker
+3. Go defer 5个陷阱第三篇 https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1
+4. Go 中使用继承 https://stackoverflow.com/questions/48264882/using-inheritance-of-builders-in-go
+5. Go api调用如何避免内存泄露 https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8
+
+GoCN每日新闻(2018-01-21)
+
+1. 自定义GraphQL客户端json解析 https://dmitri.shuralyov.com/blog/25
+2. 如何使用go的反射 https://medium.com/capital-one-developers/learning-to-use-go-reflection-822a0aed74b7
+3. 使用go实现比特币交易 https://mp.weixin.qq.com/s/lZkyDsj7h2YmgG24WOZtKQ
+4. goquery选择器示例大全 http://www.flysnow.org/2018/01/20/golang-goquery-examples-selector.html
+5. 机器学习应用区块链系列(开发智能合约) https://mp.weixin.qq.com/s/o0gIQCRIHuOmAZAH7EkVaA
+
+GoCN每日新闻(2018-01-22)
+
+1. Steam的基于Go的构建实践分享 https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users
+2. Dispatch: vmware开源的serverless部署和管理工具 https://github.com/vmware/dispatch
+3. opencensus: 支持多语言的状态收集和分布式调用追踪框架 http://opencensus.io/
+4. twirp: twitch.tv开源的新Go RPC框架 https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f
+5. 使用pprof和Flame-Graph调试Golang应用 http://io.upyun.com/2018/01/21/debug-golang-application-with-pprof-and-flame-graph/
+
+GOCN每日新闻(2018-01-23)
+
+1. 官方博文：Hello，中国！https://blog.golang.org/hello-china
+2. 架构部操作手册 https://mp.weixin.qq.com/s/vxJkUT_I-g1dWQFiz_XT_w
+3. 微服务最后的疯狂 http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/
+4. gRPC负载均衡-Golang仲玄 https://juejin.im/post/5a66046c51882535a47cfc8d
+5. Go 1.9.3 Released  https://groups.google.com/forum/#!msg/golang-nuts/7VWC5pzjg7A/E5McanH0AgAJ
+
+GoCN每日新闻(2018-01-24)
+
+1. golang的http cookie用法 http://www.linuxidc.com/Linux/2018-01/150518.htm
+2. 安装 Go版本Tensorflow https://juejin.im/post/5a4102ae518825128654cee2
+3. 如何让Gitaly service更快 https://about.gitlab.com/2018/01/23/how-a-fix-in-go-19-sped-up-our-gitaly-service-by-30x
+4. API与web服务 https://blogs.mulesoft.com/dev/api-dev/apis-versus-web-services/
+5. 深入了解Go和Python的并发 https://made2591.github.io/posts/go-py-benchmark
+
+GoCN每日新闻(2018-01-25)
+
+1.使用ServiceComb Go-chassis构建微服务 http://www.infoq.com/cn/articles/ServiceComb-Go-chassis-micro-service
+2.使用AWS10年经验之谈 https://hackernoon.com/10-lessons-from-10-years-of-aws-part-1-258b56703fcf
+3.go并发 http://www.minaandrawos.com/2015/12/06/concurrency-in-golang/
+4.Golang中的空接口作用 http://www.minaandrawos.com/2017/12/29/empty-interface-go-programming-language/
+5.使用goroutine/defer所犯的错误 https://dev.to/mattn/my-stupid-mistake-about-goroutinedefer-5ddb
+
+GoCN每日新闻(2018-01-26)
+
+1. Buoyant宣布:新k8s Service Mesh "Conduit" 将采用Rust和Golang开发 https://www.infoq.com/news/2018/01/conduit-service-mesh
+2. GoAPI服务内存泄漏修复心得 https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8
+3. Go应用性能优化实战: http://yangxikun.com/golang/2017/12/24/golang-profiling-optimizing.html
+4. Go 更灵活地编解码 thrift 消息 https://zhuanlan.zhihu.com/p/33282040
+5. Flogo:基于Go语言的IoT框架 https://github.com/TIBCOSoftware/flogo
+
+一周 Go World 新鲜事
+https://mp.weixin.qq.com/s?__biz=MjM5OTcxMzE0MQ==&mid=2653370574&idx=1&sn=507840353409eae76cdc1d4548b39570&chksm=bce4d8d48b9351c282e4f559670b6edcb1dce2fef3bc04ce887c525406619fce13070df5520c&scene=0#rd
+
+GoCN每日新闻(2018-01-27)
+
+1. golang的httpserver优雅重启 http://zhwen.org/?p=984
+2. memmap 可视化数据结构工具 https://github.com/bradleyjkemp/memmap
+3. golang channel提前close丢失数据? http://xiaorui.cc/?p=5007
+4. htmlparse:强大的html文档解析工具 https://studygolang.com/articles/12284
+5. AWS SDK for Go V2 https://www.youtube.com/watch?v=B0TMLDttLBE
+
+GoCN每日新闻(2018-01-28)
+
+1.写Go代码时遇到的那些问题[第2期]  http://tonybai.com/2018/01/27/the-problems-i-encountered-when-writing-go-code-issue-2nd/
+2.并发其实更慢？https://pocketgophers.com/concurrency-slower/
+3.基于log4go的下一代日志系统  https://gocn.io/article/592
+4.使用Go 1.10中新的跟踪功能进行集成测试的调试 https://medium.com/@cep21/using-go-1-10-new-trace-features-to-debug-an-integration-test-1dc39e4e812d
+5.软件工程师需要了解的网络知识：从铜线到HTTP（一） https://lvwenhan.com/操作系统/485.html
+
+GoCN每日新闻（2018-01-29）
+
+1. Golang 工程经验 https://juejin.im/post/5a6873fb518825733e60a1ae
+2. Go 谚语 https://lingchao.xin/post/go-proverbs.html
+3. golang json 性能分析 https://segmentfault.com/a/1190000013022780
+4. Go 管道传数据的速度到底有多快 https://syslog.ravelin.com/so-just-how-fast-are-channels-anyway-4c156a407e45
+5. 一个能将任意网络摄像机转化为 IP 摄像机的库 https://github.com/gen2brain/cam2ip
+
+
+GoCN每日新闻(2018-01-30)
+
+1. IIoT  基础设施的演进：https://www.controldesign.com/articles/2018/the-evolution-of-iiot-infrastructure/
+2. 写给 Go 初学者的十六节课： https://github.com/hacking-code/golang-tutorials
+3. 使用 TravisCI 自动编译 GitHub 上的 Go 项目：http://blog.questionable.services/article/build-go-binaries-travis-ci-github/
+4. 5G 时代下全球瞩目的中国： https://futurumresearch.com/5g-is-coming-all-eyes-on-china/
+5. 200 行代码搭建区块链：https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc
+
+GoCN每日新闻(2018-01-31)
+
+重要提醒：GopherChina 早鸟票最后一天 https://www.bagevent.com/event/1086224
+
+1. 当我谈 scheduling 时我在谈什么？ https://zhuanlan.zhihu.com/p/33389178
+2. 如何节省1T图片带宽？ 解密极致图像压缩！ https://mp.weixin.qq.com/s/8KYlDIhYmF0jCpbdBsIdcw
+3. 解读R-Net：微软「超越人类」的阅读理解人工智能 https://www.jiqizhixin.com/articles/2018-01-29-4
+4. Go基于物理的3D渲染引擎 https://github.com/hunterloftis/pbr
+5. 沪江全链路跟踪系统设计与实践 https://mp.weixin.qq.com/s/uYTVNMpX8Ci0oFvqEF_jlA
+
+GoCN每日新闻(2018-02-01)
+
+1. 微服务架构技术栈选型手册 https://mp.weixin.qq.com/s/zFJokAv8lSQejGFTGJTJeQ
+2. 微服务部署：蓝绿部署、滚动部署、灰度发布、金丝雀发布  https://mp.weixin.qq.com/s/E-_oOKXFiStS5k1kp1APWA
+3. 容器化RDS——计算存储分离架构下的“Split-Brain” https://mp.weixin.qq.com/s/MWTRbRPoaiPKRvXQ9KQWTw
+4.流行的rpc框架benchmark 2018新春版 http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/
+5. Go 函数式选项模式 https://lingchao.xin/post/functional-options-pattern-in-go.html
+
+
+GoCN每日新闻(2018-02-02)
+
+1. eBay的Elasticsearch性能调优实践 http://mp.weixin.qq.com/s/Xvc7f0nBaNVa7_DnzjCUiw
+2. golang通用连接池的实现 https://segmentfault.com/a/1190000013089363
+3. 腾讯：手Q研发体系与工具实践 http://mp.weixin.qq.com/s/JeBv04N9-D_zFo4ShOyO0Q
+4. Facebook开源物体检测平台Detectron https://github.com/facebookresearch/Detectron
+5. Golang Rollbar客户端 https://github.com/rollbar/rollbar-go
+
+GoCN每日新闻(2018-02-03)
+
+1. Prometheus原理和源码分析 http://www.infoq.com/cn/articles/Prometheus-theory-source-code
+2. Go写太空飞机大战游戏  https://sausheong.github.io/posts/space-invaders-with-go/
+3. Go开发的git仓库可视化工具grv https://github.com/rgburke/grv
+4. 数字货币可不只是区块链的全部，聪明人已经把它用到了业务中 http://www.infoq.com/cn/news/2018/01/blockchain-freewheel-architectur
+5. 宅男福音deepfakes开源了（利用人工智能视频换脸） https://juejin.im/post/5a71b6d151882573351aa05e
+
+GoCN每日新闻(2018-02-04)
+
+1. Go 1.10 State https://speakerdeck.com/campoy/the-state-of-go-1-dot-10
+2. Golang中的锁 https://zhuanlan.zhihu.com/p/33462152
+3. Golang的反射reflect深入理解和示例 https://juejin.im/post/5a75a4fb5188257a82110544
+4. Golang Networking深入解析 http://mhausenblas.info/fosdem2018-godevroom-networkingdeepdive
+5. Darch:构建引导无状态和不可变Docker镜像工具 https://godarch.com
+
+GoCN每日新闻(2018-02-05)
+
+1. 谈谈2018年技术趋势和架构规划 http://www.infoq.com/cn/news/2018/02/2018-architect-trend
+2. 使用Prometheus监控Go服务 http://alex.dzyoba.com/blog/go-prometheus-service/
+3. FOSDEM 2018大会视频 https://www.youtube.com/watch?v=JctBMLQ_IdA&list=PL_QKjHDgmNzpckLNciogFQ79csbL4JtzN
+4. Go实现的SSH蜜罐 https://github.com/mkishere/sshsyrup
+5. Go 获取 Goroutine ID（goid） https://zhuanlan.zhihu.com/p/33567726
+
+GoCN每日新闻(2018-02-06)
+
+1. Golang 中的并发限制与超时控制 https://www.jianshu.com/p/42e89de33065
+2. Go web 应用的Dockerfile指南 https://blog.hasura.io/the-ultimate-guide-to-writing-dockerfiles-for-go-web-apps-336efad7012c
+3. Go设计模式大全 http://tmrts.com/go-patterns/
+4. 一个函数的自白 https://mp.weixin.qq.com/s/1VtITPEufTMcI42WFEhoEw
+5. REST是否会步SOAP的后尘? http://www.infoq.com/cn/news/2018/02/rest-and-soap
+
+GoCN每日新闻(2018-02-07)
+
+1.配置sql.DB更好的性能 http://www.alexedwards.net/blog/configuring-sqldb
+2.表单验证集合 http://www.alexedwards.net/blog/validation-snippets-for-go
+3.在树莓派上运行Go程序 https://dev.to/plutov/video-series-running-go-programs-on-raspberry-pi-543o
+4.Go使用OpenCV和MachineBox进行人脸检测 https://dev.to/plutov/face-detection-in-go-using-opencv-and-machinebox-4ph2
+5.Tensorflow 项目实践案例 https://github.com/Mrgemy95/Tensorflow-Project-Template
+
+GoCN每日新闻(2018-02-08)
+
+1. (译)在 Golang 中针对 int64 类型优化 abs()  https://wuyin.io/2018/02/07/optimized-abs-func-for-int64-in-Go/
+2. Go语言并不简单 http://www.techug.com/post/go-is-not-very-simple-folks-3e84220e73c7.html
+3. 微服务之web客户端 https://ewanvalentine.io/microservices-in-golang-part-6/
+4. 把SQL作为API  https://scene-si.org/2018/02/07/sql-as-an-api/
+5. Doing More With Docker Images http://training.play-with-docker.com/ops-s1-images/
+
+GoCN每日新闻(2018-02-09)
+
+1. 让你的Go程序运行更快 https://golangnews.com/stories/3168-video-make-your-go-go-faster
+2. 手把手教你编写和发布Go功能库 https://darahayes.com/publishing-golang-libraries-comprehensive-guide/
+3. k8s带给我们什么 https://www.infoq.com/articles/kubernetes-effect
+4. go-deep:使用Go语言开发神经网络 https://github.com/patrikeh/go-deep
+5. genesis:使用Go语言编写的开源区块链平台 https://github.com/GenesisCommunity/go-genesis
+
+GoCN每日新闻(2018-02-10)
+
+1. Go 1.10 Release Party https://github.com/golang/go/wiki/Go-1.10-Release-Party
+2. node开发者学习Go https://nemethgergely.com/learning-go-as-a-nodejs-developer/
+3. golang80行代码钉钉群机器人订阅百度新闻 https://segmentfault.com/a/1190000013241676
+4. 如何实现一个 go packages 的开源镜像站？https://hacpai.com/article/1518099877343
+5. Go 内嵌静态文件工具 packr https://gocn.io/article/612
+
+GoCN每日新闻(2018-02-19)
+
+1. httpproxy:Go代理转发服务库 https://github.com/go-httpproxy/httpproxy
+2. flagg:基于Go1.10新特性的flag处理库 https://github.com/lukechampine/flagg
+3. 生产环境中的配置管理 https://lanre.wtf/blog/2018/02/18/managing-production-configuration/
+4. golang基于redis lua封装的优先级去重队列 https://mp.weixin.qq.com/s/8mm4gfYtOtKZgJG2cgvK8Q
+5. go-server-timing
+:方便前端跟踪分布式调用时间 https://github.com/mitchellh/go-server-timing
+
+GoCN每日新闻(2018-02-20)
+
+1. Go 1.10 更新内容 https://medium.com/@thuc/whats-changes-in-golang-1-10-d3022fbade3c
+2. Jenkins 构建 Go 的 CI 系统 https://medium.com/@zarkopafilis/building-a-ci-system-for-go-with-jenkins-4ab04d4bacd0
+3. Docker 的多阶段构建 https://zhuanlan.zhihu.com/p/33795821
+4. Go 竞争检查和修复 https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/
+5. 有趣也有用的现代类型系统 https://juejin.im/post/5a8a7755f265da4e7832a60e
+
+GoCN每日新闻(2018-02-21)
+
+1. Kubernetes节点扩容规模至2500的历程 https://mp.weixin.qq.com/s/37v5TqYIRNg9pje725kewg
+2. 初识消息队列处理机框架KClient https://mp.weixin.qq.com/s/Er9XGyV6UrLVcid0M9AG-g
+3. 一张图了解微服务架构核心知识点 https://mp.weixin.qq.com/s/HK9_GfLe1Q215YouTsezvQ
+4. golang & 版本管理 https://research.swtch.com/vgo-intro
+5. Golang多级内存池设计与实现 https://liudanking.com/arch/golang-multi-level-memory-pool-design-implementation/
+
+GoCN每日新闻(2018-02-22)
+
+1.Go的函数是柯里化方法 https://dev.to/mattn/gos-method-is-curried-funtion-c3f
+2.Go游戏开发包 https://dev.to/hajimehoshi/go-packages-we-developed-for-our-games--4cl9
+3.Bazel构建Go的应用 https://filipnikolovski.com/managing-go-monorepo-with-bazel/
+4.Telegram项目创新概念与技术架构解析 https://mp.weixin.qq.com/s/4upKus60LnJNj4gTw_K5NQ
+5.把Go当做一个脚本语言在Linux上应用 https://blog.cloudflare.com/using-go-as-a-scripting-language-in-linux
+
+GoCN每日新闻(2018-02-23)
+
+1. 生产环境上的代码迁移:重写Uber 无范式数据仓库的分片层 https://eng.uber.com/schemaless-rewrite/
+2. vgo和dep对比 https://sdboyer.io/blog/vgo-and-dep/
+3. Serverless 架构：享受纯粹的编程乐趣 https://mp.weixin.qq.com/s/T5weB01QUy3Nzhw8H3hz5g
+4.  Go 1.10 支持https代理 https://medium.com/@mlowicki/https-proxies-support-in-go-1-10-b956fb501d6b
+5. 初探vgo https://www.calhoun.io/exploring-vgo/
+
+
+GoCN每日新闻(2018-02-24)
+
+1. Go 中数据竞争及如何解决 https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/
+2. 基础设施管理者的生命 https://medium.com/@zombiezen/life-of-a-go-infrastructure-maintainer-cb1419308eb5
+3. Golang 整洁架构 https://medium.com/@eminetto/clean-architecture-using-golang-b63587aa5e3f
+4. 最小版本选择（vgo）https://lingchao.xin/post/vgo-mvs.html
+5. nextnet 中心节点发现工具 https://github.com/hdm/nextnet
+
+GoCN每日新闻(2018-02-25)
+
+1. 通过插件的形式对Go程序做热修复: https://github.com/smallnest/glean
+2. Go语言参数传递是传值还是传引用: https://mp.weixin.qq.com/s/iKhhrIQ7zEMhJiVuegzPYg
+3. Etcd中的raft实现 http://www.opscoder.info/ectd-raft-library.html
+4. MongoDB 4.0有望支持跨文档事务 http://www.infoq.com/cn/news/2018/02/MongoDB-Transactions
+5. 大数据流处理平台的技术选型参考 https://mp.weixin.qq.com/s/ZGaMyuOjUOXmWBDReYHwhA
+
+GoCN每日新闻(2018-02-26)
+
+1. [译] BoltDB：一个纯粹的 Go key/value 数据库 https://mp.weixin.qq.com/s/5y7q2DU9_ZWsZ7jzpkqiKQ
+2. Go 解析嵌套 JSON 小技巧 https://medium.com/@turgon/json-in-go-is-magical-c5b71505a937
+3. Go 数据结构之堆和队列探究 https://ieftimov.com/golang-datastructures-stacks-queues
+4. Go 测试之 mock 第三方依赖 https://medium.com/@harrygogonis/testing-go-mocking-third-party-dependancies-4ab4e1c9bd3f
+5. Jeff Dean等提出自动化分层模型，优化CPU、GPU等异构环境性能提升超60% http://mp.weixin.qq.com/s/eTwSo3GnxSnK-BwwZeWmKA
+
+GoCN每日新闻(2018-02-27)
+
+1. Android 系统中运行 Go：http://rafalgolarz.com/blog/2017/01/15/running_golang_on_android/
+2. Go 中 Tag 的应用： https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e
+3. Go 中包导入声明：  https://medium.com/golangspec/import-declarations-in-go-8de0fd3ae8ff
+4. 为什么你应该关注量子链：https://medium.com/coingape/why-you-should-keep-qtum-cryptocurrency-on-your-radar-in-2018-918feb54a501 
+5. 深度学习在医学MR影像上的应用： https://medium.com/stanford-ai-for-healthcare/its-a-no-brainer-deep-learning-for-brain-mr-images-f60116397472
+
+GoCN每日新闻(2018-02-28)
+
+1. Go2017年问卷调查结果 https://blog.golang.org/survey2017-results
+2. Go零基础编程入门教程 https://gocn.io/question/1615
+3. 跨平台编译cgo https://github.com/karalabe/xgo
+4. 200行Go实现一个以太坊代理服务器 https://zhuanlan.zhihu.com/p/34056983
+5. Go addressable http://colobu.com/2018/02/27/go-addressable/
+
+
+GoCN每日新闻(2018-03-01)
+
+1. 从Elasticsearch集群及数据层架构，看分布式系统设计 https://mp.weixin.qq.com/s/jJ1LH2MLxRPAvma3Hd6-XA
+2. 有必要知道语言底层的「原理」吗？ https://mp.weixin.qq.com/s/Pf2a1xoX16q-5YS-fnxP2Q
+3. 区块链常用架构是什么？ https://mp.weixin.qq.com/s/N_Fc6_OvZfLT8S7pXvluWQ
+4. 饿了么混合云架构探索 https://mp.weixin.qq.com/s/4oEWnE03KkOEZtsUXl99KA
+5. TiDB 源码阅读系列文章（一）序 https://mp.weixin.qq.com/s/z3OluFqtopJUYmVib0HvSQ
+
+
+GoCN每日新闻(2018-03-02) 【元宵节快乐!】
+
+1. Beego 实现在线文档管理系统 BookStack https://gitee.com/truthhun/BookStack
+2. gf框架之grpool – 高性能的goroutine池 https://segmentfault.com/a/1190000013468966
+3. A Gopher's Reading List https://github.com/enocom/gopher-reading-list
+4. 容器化RDS：计算存储分离还是本地存储？https://mp.weixin.qq.com/s/CVIgRau7WOxF6EIZ5e9N4w
+5. 如何在GO语言中使用Kubernetes API？https://mp.weixin.qq.com/s/MHjuS21iIyV99-o5hESWCw
+
+
+oCN每日新闻(2018-03-05)
+
+1. 关于Go的博文收集列表 https://github.com/enocom/gopher-reading-list
+2. GraphQL连接数据库生成工具 https://ahmedalhulaibi.github.io/graphqlator-website/
+3. 命令行中监控Goroutine https://github.com/bcicen/grmon
+4. Go实现的CASPaxos协议 https://github.com/peterbourgon/caspaxos
+5. goroutine 所有权和退出 https://zhuanlan.zhihu.com/p/34123287
+
+
+GoCN每日新闻(2018-03-06)
+
+1. AWS 架构分享系列 https://aws.amazon.com/this-is-my-architecture/
+2. Go 语言知识图谱 https://mp.weixin.qq.com/s/SmKxLsa2grc7kYj7eYyidQ
+3. Go 内部原理 https://github.com/teh-cmc/go-internals
+4. Go 使用服务器对象模式 https://www.calhoun.io/using-the-service-object-pattern-in-go/
+5. go rpc 源码分析 https://segmentfault.com/a/1190000013532622
+
+GoCN每日新闻(2018-03-07)
+
+1. 如何入门区块链  https://mp.weixin.qq.com/s/9NrDOOe1EvxHln2BehU9Ww
+2. 我是怎么阅读kubernetes源代码的？ http://dockone.io/article/895
+3. Kubernetes HA 1.9 高可用集群,本地离线部署 https://mp.weixin.qq.com/s/KfZ1SyRFy-tXI44CQfaSPQ
+4. 一个好用的视图模型映射库 https://github.com/devfeel/mapper
+5. 利用K8S技术栈打造个人私有云(连载之：K8S资源控制)  https://www.jianshu.com/p/58a98e65074c
+
+GoCN每日新闻(2018-03-08)
+
+1. 为什么选择TDD开发? https://builttoadapt.io/why-tdd-489fdcdda05e
+2. 深度学习与机器学习的学习路线 https://github.com/SherlockLiao/Roadmap-of-DL-and-ML
+3. Go编写的区块链挖掘算法 https://medium.com/@mycoralhealth/code-your-own-blockchain-mining-algorithm-in-go-82c6a71aba1f
+4. 关于Go性能优化的思考 https://github.com/dgryski/go-perfbook
+5. 新的神经网络即将到来 https://hackernoon.com/the-new-neural-internet-is-coming-dda85b876adf
+
+GoCN每日新闻(2018-03-09)
+
+1. ipfs指南 https://zhuanlan.zhihu.com/p/34158682
+2. 深入理解k8s的flannel https://www.kubernetes.org.cn/3682.html
+3. 如何成为一名区块链开发者 https://howtotoken.com/career/blockchain-developer-practical-advice-from-experts/
+4. 让Go自动填写古诗词 https://juejin.im/post/5a9f33ee518825558a0620d3?
+5. golang调试工具Delve http://www.cnblogs.com/li-peng/p/8522592.html
+
+GoCN每日新闻(2018-03-10)
+1. Golang 2D游戏库 https://github.com/hajimehoshi/ebiten
+2. 反向DNS工具 https://github.com/caffix/amass
+3. 简化k8s应用开发流程工具 https://github.com/GoogleCloudPlatform/skaffold
+4. 以太坊设计原理 https://github.com/ethereum/wiki/wiki/Design-Rationale
+5. gf框架之gdb - 强大易用的数据库ORM https://segmentfault.com/a/1190000013627063
+
+GoCN每日新闻(2018-03-11)
+
+1. Go编写的现代 IRC 服务 https://github.com/oragono/oragono
+2. 通过写测试学习Go https://github.com/quii/learn-go-with-tests/tree/master/hello-world
+3. 区块链与函数式编程 https://zhuanlan.zhihu.com/p/34287276
+4. 设计一套良好 REST API https://zhuanlan.zhihu.com/p/34289466
+5. 使用机器生成代码的5个好处 https://medium.com/@dgryski/five-nice-things-for-machine-generated-code-5335e67c1e36
+
+
+GoCN每日新闻(2018-03-12)
+
+1. GopherChina 2018 大会全部议程 https://mp.weixin.qq.com/s/1_v8DsvinZWfh0-HXks88Q
+2. GopherChina大会嘉宾专访--逻辑思维首席架构师方圆 https://mp.weixin.qq.com/s/OW8Xhfblg_lOO9pRJfxFEQ
+3. GopherChina大会嘉宾专访--阿里巴巴技术专家李雨前 https://mp.weixin.qq.com/s/ve6LYDyiQwKvm8C5USYm_w
+4. GopherChina大会嘉宾专访--比特大陆哥白尼负责人姜家志 https://mp.weixin.qq.com/s/ozyi485w5We1UtGarYI-dQ
+5. GopherChina大会嘉宾专访--AChainABTC项目CTO强科臻 https://mp.weixin.qq.com/s/V4c9QiZ_Fh9yIfkMveTrCg
+6. GopherChina大会嘉宾专访--青云应用平台开发部工程师柴树杉 https://mp.weixin.qq.com/s/-_e5Zt4x0yYvgV4_fkxAGw
+
+GoCN每日新闻(2018-03-13)
+
+1. Go 同步队列： https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
+2. 使用 Go 快速扫描目录文件的不同方法 http://www.boyter.org/2018/03/quick-comparison-go-file-walk-implementations/
+3. Go Context 的踩坑经历 https://zhuanlan.zhihu.com/p/34417106
+4. 一个用 Go 实现的简单区块链库： https://github.com/Jeiwan/blockchain_go
+5. AI 在医疗领域发展前景展望： https://medium.com/@marketing_61843/the-future-of-healthcare-ai-ee38e5ba0991
+
+GoCN每日新闻(2018-03-14)
+
+1. Go推送服务 https://github.com/appleboy/gorush
+2. cgo开发小结 http://yangxikun.com/golang/2018/03/09/golang-cgo.html
+3. 通过测试来学习go https://dev.to/quii/learn-go-by-writing-tests--m63
+4. Go即插即用机器学习模型 https://dev.to/michaeljtaylor0/plug--play-machine-learning-models-in-golang--fc0
+5. Beego框架的一条神秘日志引发的思考 https://juejin.im/post/5aa61f74f265da237b21ba59
+
+GoCN每日新闻(2018-03-15)
+
+1. [总结] 容器技术架构、网络和生态详解 https://mp.weixin.qq.com/s/Vs7jR8ekJF31etsGTzxRKA
+2. [图解] 机器学习常见的基本算法 https://mp.weixin.qq.com/s/F5F5TKlOvfojXbVfeS-f9g
+3. 淘宝高可用高伸缩高性能框架之实现 https://mp.weixin.qq.com/s/998XKSIGSH-hRNtxxiERnw
+4. 使用 Go 进行 Socket 编程 http://hbliu.coding.me/2018/03/14/unix-socket-programming/
+5. Golang 新手可能会踩的 50 个坑 https://wuyin.io/2018/03/07/50-shades-of-golang-traps-gotchas-mistakes/
